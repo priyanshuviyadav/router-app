@@ -33,7 +33,7 @@ export default function Course() {
                 // margin: "2px 0",
                 // padding: "5px 8px",
                 border: "2px  gray",
-                color: "Blue",
+                color: "green",
 
                 margin: "2px auto",
                 padding: "4px auto",
